@@ -1,5 +1,5 @@
-# 1001 Demos
-## One Demo is Worth a Thousand Trajectories: Action-View Augmentation for Visuomotor Policies
+<!-- # 1001 Demos
+## One Demo is Worth a Thousand Trajectories: Action-View Augmentation for Visuomotor Policies -->
 
 <div align="center">
   <h3 style="color: #8C1515; font-size: 2.5em; margin-bottom: 0;">1001 Demos</h3>
